@@ -1,0 +1,40 @@
+#logoApp{
+    width: 115px;
+    height: 30px;
+    float: left;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+#iconeReglage{
+    width: 30px;
+    height: 30px;
+    float: right;
+    margin-right: 8px;
+    margin-top: 5px;
+}
+#rectangle{
+    width:500px;
+    height:40px;
+    background: #E71313;
+    display: block;
+}
+
+html 
+{ 
+    background-color: #000000; 
+} 
+
+body 
+{
+    min-height: 100vh;
+    max-width: 500px;
+    background-color: white; 
+    margin: 0 auto;
+}
+
+#contenuPage
+{
+    height: 670px;
+    width: 500px;
+    background-color: rgb(255, 255, 255);
+}

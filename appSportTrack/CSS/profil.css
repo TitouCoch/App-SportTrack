@@ -1,0 +1,221 @@
+/*Page profile complète*/
+html 
+{ 
+    background-color: #000000; 
+} 
+/*Contenu de la page*/
+body 
+{
+    min-height: 100vh;
+    max-width: 500px;
+    background-color: white; 
+    margin: 0 auto;
+}
+/*Contenu du body*/
+#contenuPage
+{
+    height: 840px;
+    width: 500px;
+    background-color: rgb(230, 230, 230);
+}
+/*En tête du body*/
+#contenuPage1
+{
+    height: 150px;
+    width: 650px;
+    display: block;
+}
+
+/*Boite contenant l'image de profil*/
+#divImgProfil
+{
+    height: 100px;
+    width: 100px;
+    margin-left: 20px;
+    display: inline-block; 
+}
+
+/*Image de profil*/
+#imgProfil
+{
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    float: left;
+}
+
+/*Boite contenant le nom/prénom/logoClub*/
+#informationContenuPage1
+{
+    height: 100px;
+    width: 250px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 20px;
+    display: inline-block;
+    background-color: rgb(212, 212, 212);
+}
+
+/*Nom et prénom*/
+#p1
+{
+    display: inline-block;  
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    width: 6em;
+}
+
+/*Logo du club*/
+#imgLogoClub
+{
+    height: 80px;
+    width: 80px;
+    display: inline-block;
+    margin-top:10px;
+}
+
+
+
+
+
+
+
+/*Corp du body*/
+#square {
+    border: solid 4px rgb(0, 0, 0);
+    width: 400px;
+    height: 520px;
+    margin-left:40px;
+    margin-top: 20px;
+    background-color: white;
+  }
+
+/*Bouton modifier profil*/
+#modifierProfil
+{
+    width: 200px;
+    height: 20px;
+    margin-left:160px; 
+    background-color: rgb(212, 212, 212);
+}
+
+/*Texte modifier profil*/
+#pModifierProfil
+{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    width: 7em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*Partie photo*/
+#caseProfil1
+{
+    border: solid 3px rgb(0, 0, 0);
+    width: 90px;
+    height: 35px;
+    display: inline-block;
+    margin-left: 40px;
+    margin-top: 20px;
+    background-color: rgb(194, 194, 194);
+}
+
+/*Partie statistique*/
+#caseProfil2
+{
+    border: solid 3px rgb(0, 0, 0);
+    width: 90px;
+    height: 35px;
+    display: inline-block;
+    margin-left: 3px;
+    background-color: white;
+}
+
+/*Parie club*/
+#caseProfil3
+{
+    border: solid 3px rgb(0, 0, 0);
+    width: 90px;
+    height: 35px;
+    display: inline-block;
+    margin-left: 3px;
+    background-color: white;
+}
+
+/*Partie compétition*/
+#caseProfil4
+{
+    border: solid 3px rgb(0, 0, 0);
+    width: 90px;
+    height: 35px;
+    display: inline-block;
+    margin-left: 3px;
+    background-color: white;
+}
+
+/*Texte photo et club*/
+.pSquare1
+{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*Texte statistique*/
+.pSquare2
+{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*Compétition*/
+.pSquare3
+{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*Boite contenant les photos*/
+.rectanglePhoto1 {
+    border: solid 4px rgb(0, 0, 0);
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    margin-left: 18px;
+    margin-top: 14px;
+}
+
+/*Boite contenant les photos*/
+.rectanglePhoto2 {
+    border: solid 4px rgb(0, 0, 0);
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    margin-left: 18px;
+    margin-top: 14px;
+}
+
+/*Boite contenant les photos*/
+.rectanglePhoto3 {
+    border: solid 4px rgb(0, 0, 0);
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    margin-left: 18px;
+    margin-top: 14px;
+}
+
+.rectanglePhoto4 {
+    border: solid 4px rgb(0, 0, 0);
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    margin-left: 18px;
+    margin-top: 14px;
+}
+

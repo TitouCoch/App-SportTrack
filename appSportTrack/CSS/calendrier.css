@@ -1,0 +1,43 @@
+.mois
+{   
+    text-align: center;
+    background-color: rgb(255,255,255);
+    color: #0F366B;
+    font-size: 30px;
+    padding-bottom: 15px ;
+    border-bottom: 1px solid #0F366B;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.calendrier
+{   
+    padding-top: 3px;
+    margin: -30px;
+    border-collapse: collapse;
+    margin: 30px auto;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+th, td
+{   
+    font-size: 20px;
+    padding:  10px 25px;
+}
+.lien
+{   
+    color: #0F366B;
+    outline: none;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#divJour
+{
+    width: 500px;
+    height: 700px;
+}
+
+#pJour
+{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

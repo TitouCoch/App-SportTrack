@@ -1,0 +1,15 @@
+#rectangle2{
+    width:500px;
+    height:90px;
+    background: #E71313;
+    display: block;
+}
+
+.icone
+{
+    width: 70px;
+    height: 70px;
+    display: inline;
+    margin-left: 70px;
+    margin-top: 15px;
+}
